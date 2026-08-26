@@ -7,4 +7,4 @@
 
 
 #### GutHub Action 
-- [실습](https://github.com/ancestor9/my-gradio-app)
+- [실습 Repository](https://github.com/ancestor9/my-gradio-app)
