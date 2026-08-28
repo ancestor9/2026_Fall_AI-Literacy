@@ -1,5 +1,5 @@
 #### AI Literacy ~~
-- Python -> Pandas -> FastAPI -> Machine Learning -> Deep Learning -> Generative Deep Learning -> LLM -> Langchain
+- Python -> Pandas -> FastAPI/Data pipeline/Workflow -> Machine Learning -> Deep Learning -> Generative Deep Learning -> LLM -> Langchain
 
 ##### 머신러닝 참고 사이트
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
