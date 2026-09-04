@@ -10,6 +10,7 @@
 - 표현 학습과 잠재 공간을 통한 데이터 생성: 복잡한 원시 데이터를 의미 있는 저차원 특징으로 압축하여 다루는 표현 학습(Representation Learning)과 잠재 공간(Latent Space), 그리고 실제 데이터가 존재하는 영역인 매니폴드(Manifold)의 개념 및 작동 원리
 - 생성 모델의 도약과 해결 과제
 - [Generative Deep Learining Book](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
+![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781098134181.jpg?t=2976932)
 
 ##### AI 시각화 참고 사이트
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
